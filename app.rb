@@ -1,8 +1,130 @@
 puts "Hello World!"
+
+# puts ("Hello world")
+
+# print "Hello world!"
+# print "Hello world!"
+
 print "Pass this test, please."
- p [1,2,3]
- 
- 
- 
- puts [1, 2, 3]
+# puts [1, 2, 3].inspect
+p [1, 2, 3]
+
+# person = {name: "john", age: 30}
+
+# puts person.inspect
+
+# pp [{id:1, hello: "world"}, {id: 2, hello: "Ruby"}, {id: 3, hello:"moon" },{id: 4, hello:"learner"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
